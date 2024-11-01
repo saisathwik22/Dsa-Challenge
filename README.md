@@ -1,2 +1,2 @@
-## Daily problem-solving challenge - November
+## Daily problem-solving challenge
 - Leetcode POTDs
